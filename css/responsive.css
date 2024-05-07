@@ -1,0 +1,863 @@
+/*==index.html part start==*/
+
+@media (max-width: 575.98px) {
+
+    /*==navebar part start==*/
+    .navbar-light .navbar-toggler {
+        color: #86bc42;
+        border-color: #86bc42;
+        margin-right: 20px;
+        border-radius: 0px;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-color: #86bc42;
+    }
+
+    .navbar-brand,
+    .logo {
+        padding-left: 20px;
+    }
+
+    /*==navebar part end==*/
+
+    /*==banner part start==*/
+    .banner-title {
+        padding: 50px 0 170px 0;
+    }
+
+    .banner-title h1 {
+        font-size: 80px;
+    }
+
+    .banner-title h2 {
+        font-size: 40px;
+    }
+
+    /*==banner part end==*/
+
+    /*==offer part start==*/
+    .offer-iteam img {
+        width: 545px;
+    }
+
+    /*==offer part end==*/
+
+    /*==menu-filter part start==*/
+    .menu-filter-title ul li {
+        margin-bottom: 5px;
+    }
+
+    .main-food {
+        padding: 50px 10px;
+    }
+
+    .food-box {
+        padding-bottom: 40px;
+    }
+
+    .food-box-title h4 {
+        font-size: 21px;
+    }
+
+    .food-box-title p {
+        font-size: 13px;
+    }
+
+    /*==menu-filter part start==*/
+
+    /*==bookling-form part start==*/
+    .main-booking-form form input {
+        width: 46%;
+    }
+
+    .form-control {
+        width: 46%;
+    }
+
+    /*==bookling-form part end==*/
+
+    /*==clint part start==*/
+    .clind-say {
+        margin: 20px 0;
+    }
+
+    /*==clint part end==*/
+
+
+    /*==display part start==*/
+    .display-box img {
+        width: 575px;
+    }
+
+    /*==display part end==*/
+
+
+    /*==fotter part start==*/
+    #fotter {
+        padding: 60px 0 20px 0;
+        text-align: center;
+    }
+
+    .fotter-time h6 {
+        padding: 0;
+    }
+
+    .fotter-title h5 {
+        padding-top: 40px;
+    }
+
+    /*==fotter part end==*/
+
+}
+
+/*================================================================*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /*==navebar part start==*/
+    .navbar-light .navbar-toggler {
+        color: #86bc42;
+        border-color: #86bc42;
+        margin-right: 20px;
+        border-radius: 0px;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-color: #86bc42;
+    }
+
+    .navbar-brand,
+    .logo {
+        padding-left: 20px;
+    }
+
+    /*==navebar part end==*/
+
+    /*==banner part start==*/
+    .banner-title {
+        padding: 50px 0 170px 0;
+    }
+
+    .banner-title h1 {
+        font-size: 80px;
+    }
+
+    .banner-title h2 {
+        font-size: 40px;
+    }
+
+    /*==banner part end==*/
+
+
+    /*==offer part start==*/
+    .offer-iteam img {
+        width: 510px;
+    }
+
+    /*==offer part end==*/
+
+    /*==menu-filter part start==*/
+    .menu-filter-title ul li {
+        margin-bottom: 5px;
+    }
+
+    .main-food {
+        padding: 50px 10px;
+    }
+
+    .food-box {
+        padding-bottom: 40px;
+    }
+
+    .food-box-title h4 {
+        font-size: 21px;
+    }
+
+    .food-box-title p {
+        font-size: 13px;
+    }
+
+    /*==menu-filter part start==*/
+
+    /*==bookling-form part start==*/
+    .main-booking-form form input {
+        width: 46%;
+    }
+
+    .form-control {
+        width: 46%;
+    }
+
+    /*==bookling-form part end==*/
+
+    /*==clint part start==*/
+    .clind-say {
+        margin: 20px 0;
+    }
+
+    /*==clint part end==*/
+
+
+    /*==display part start==*/
+    .display-box img {
+        width: 576px;
+    }
+
+    /*==display part end==*/
+
+
+    /*==fotter part start==*/
+    #fotter {
+        padding: 60px 0 20px 0;
+        text-align: center;
+    }
+
+    .fotter-time h6 {
+        padding: 0;
+    }
+
+    .fotter-title h5 {
+        padding-top: 40px;
+    }
+
+    /*==fotter part end==*/
+
+}
+
+
+/*================================================================*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+    /*==navebar part start==*/
+    .navbar-light .navbar-toggler {
+        color: #86bc42;
+        border-color: #86bc42;
+        margin-right: 20px;
+        border-radius: 0px;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-color: #86bc42;
+    }
+
+    .navbar-brand,
+    .logo {
+        padding-left: 20px;
+    }
+
+    /*==navebar part end==*/
+
+    /*==banner part start==*/
+    .banner-title {
+        padding: 50px 0 170px 0;
+    }
+
+    .banner-title h1 {
+        font-size: 80px;
+    }
+
+    .banner-title h2 {
+        font-size: 40px;
+    }
+
+    /*==banner part end==*/
+
+
+    /*==offer part start==*/
+    .offer-iteam img {
+        width: 510px;
+    }
+
+    /*==offer part end==*/
+
+    /*==menu-filter part start==*/
+    .menu-filter-title ul li {
+        margin-bottom: 5px;
+    }
+
+    .menu-filter-title ul li button {
+        padding: 20px 32px;
+    }
+
+    .main-food {
+        padding: 50px 10px;
+    }
+
+    .food-box {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    .food-box-title {
+        position: initial;
+    }
+
+    .food-box-title h4 {
+        font-size: 21px;
+    }
+
+    .food-box-title p {
+        font-size: 13px;
+    }
+
+    /*==menu-filter part end==*/
+
+    /*==offer part start==*/
+    .off-item-title {
+        padding: 2.2rem;
+    }
+
+    /*==offer part end==*/
+
+    /*==bookling-form part start==*/
+    #booking-form {
+        padding: 100px 0;
+    }
+
+    .main-booking-form form input {
+        width: 46%;
+    }
+
+    .form-control {
+        width: 46%;
+    }
+
+    /*==bookling-form part end==*/
+
+    /*==chef part start==*/
+    .chef-box img {
+        width: 210px;
+    }
+
+    .chef-box-title h4 {
+        font-size: 17px;
+    }
+
+    .chef-box-title p {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .chef-icon ul li a i {
+        font-size: 14px;
+    }
+
+    .chef-box-title {
+        bottom: 5px;
+        margin: 0 8px;
+        padding: 20px 0 5px 7px;
+    }
+
+    /*==chef part end==*/
+
+    /*==clint part start==*/
+    .clint-slide {
+        padding-top: 0;
+    }
+
+    .clind-say {
+        margin: 20px 0;
+    }
+
+    /*==clint part end==*/
+
+    /*==news-btf part start==*/
+    #news-btf {
+        padding: 0 0 0 0;
+    }
+
+    .news-btf-title h4 span {
+        font-size: 29px;
+    }
+
+    .news-btf-pos a h3 {
+        font-size: 18px;
+    }
+
+    .news-btf-pos p {
+        font-size: 14px;
+    }
+
+    /*==news-btf part end==*/
+
+    /*==display part start==*/
+    .display-box img {
+        width: 768px;
+    }
+
+    /*==display part end==*/
+
+
+    /*==fotter part start==*/
+    #fotter {
+        padding: 60px 0 20px 0;
+        text-align: center;
+    }
+
+    .fotter-time h6 {
+        padding: 0;
+    }
+
+    .fotter-title h5 {
+        padding-top: 40px;
+    }
+
+    /*==fotter part end==*/
+
+}
+
+
+/*================================================================*/
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /*==banner part start==*/
+    .banner-title {
+        padding: 100px 0 170px 0;
+    }
+
+    .banner-title h1 {
+        font-size: 80px;
+    }
+
+    .banner-title h2 {
+        font-size: 40px;
+    }
+
+    /*==banner part end==*/
+
+    /*==menu-filter part start==*/
+    .menu-filter-title ul li {
+        margin-bottom: 5px;
+    }
+
+    .menu-filter-title ul li button {
+        padding: 20px 32px;
+    }
+
+    .main-food {
+        padding: 50px 10px;
+    }
+
+    .food-box {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    .food-box-title {
+        position: initial;
+    }
+
+    .food-box-title h4 {
+        font-size: 21px;
+    }
+
+    .food-box-title p {
+        font-size: 13px;
+    }
+
+    /*==menu-filter part end==*/
+
+
+    /*==chef part start==*/
+
+    .chef-box-title {
+        margin: 0 11px;
+    }
+
+    .clind-say h5 {
+        font-weight: 900;
+    }
+
+    .clind-say p {
+        font-size: 15px;
+    }
+
+    .news-btf-pos a h3 {
+        font-size: 23px;
+    }
+
+    /*==chef part end==*/
+
+
+    /*==news-btf part start==*/
+    #news-btf {
+        padding: 0;
+    }
+
+    /*==news-btf part end==*/
+
+    /*==display part start==*/
+    .display-box img {
+        width: 248px;
+        height: 248px;
+    }
+
+    /*==display part end==*/
+
+
+    /*==fotter part start==*/
+    .fotter-mess input {
+        padding: 5px 30px 5px 10px;
+    }
+
+    /*==fotter part end==*/
+
+}
+
+
+/*================================================================*/
+
+@media (min-width: 1200px) {
+
+    /*==menu-filter part start==*/
+    .main-food {
+        padding: 100px 20px;
+    }
+
+    /*==menu-filter part end==*/
+
+    /*==clint part start==*/
+    .clind-say h5 {
+        font-size: 22px;
+        font-weight: 900;
+    }
+
+    /*==clint part end==*/
+
+    /*==display part start==*/
+    #display {}
+
+    .display-box img {
+        width: 300px;
+    }
+
+    /*==display part end==*/
+
+}
+
+/*==index.html part end==*/
+
+
+
+/*==about.html part start==*/
+
+
+@media (max-width: 575.98px) {
+
+    /*==about-clint part start==*/
+    .about-clint-main-title h5 {
+        padding: 0;
+    }
+
+    /*==about-clint part end==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /*==about-clint part start==*/
+    .about-clint-main-title h5 {
+        padding: 0;
+    }
+
+    /*==about-clint part end==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /*==food-zone part start==*/
+    .food-zone-box h4 {
+        font-size: 21px;
+        padding: 10px 05px 0 05px;
+    }
+
+    /*==food-zone part end==*/
+
+    /*==about-counter part start==*/
+    .counter-title span {
+        font-size: 27px;
+    }
+
+    .counter-title p {
+        font-weight: 900;
+        font-size: 17px;
+    }
+
+    /*==about-counter part end==*/
+
+    /*==about-clint part start==*/
+    .about-clint-main-title h5 {
+        padding: 0;
+    }
+
+    /*==about-clint part end==*/
+
+
+}
+
+/*================================================================*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /*==chef-exprience part start==*/
+    .chef-box img {
+        width: 290px;
+    }
+
+    /*==chef-exprience part end==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 1200px) {
+
+    /*==fully auto reponsive==*/
+
+}
+
+/*==about.html part end==*/
+
+
+
+/*==menu.html part start==*/
+
+
+@media (max-width: 575.98px) {
+
+    /*==main-offer-menu part start==*/
+    .aktu {
+        width: 545px !important;
+    }
+
+    /*==main-offer-menu part end==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /*==main-offer-menu part start==*/
+    .aktu {
+        width: 510px !important;
+    }
+
+    /*==main-offer-menu part end==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /*==main-offer-menu part start==*/
+    .aktu {
+        width: 690px !important;
+    }
+
+    /*==main-offer-menu part end==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /*==main-offer-menu part start==*/
+    .aktu {
+        width: 697.5px !important;
+    }
+
+    /*==main-offer-menu part end==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 1200px) {
+    /*==auto-responsive==*/
+}
+
+
+/*==menu.html part end==*/
+
+
+
+
+
+/*==news.html part start==*/
+
+
+@media (max-width: 575.98px) {
+
+    /*==main-news part start==*/
+    .news-img img {
+        height: 395px;
+    }
+
+    .news-time h5 {
+        font-size: 40px;
+    }
+
+    .news-img-txt {
+        padding-left: 55px;
+    }
+
+    .news-img-txt p {
+        font-size: 16px;
+
+    }
+
+    /*==main-news part end==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /*==main-news part start==*/
+    .news-img img {
+        height: 395px;
+    }
+
+    .news-time h5 {
+        font-size: 40px;
+    }
+
+    .news-img-txt {
+        padding-left: 51px;
+    }
+
+
+    .news-img-txt p {
+        font-size: 15px;
+
+    }
+
+}
+
+
+/*================================================================*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .news-time h5 {
+        font-size: 52px;
+    }
+
+    .news-img img {
+        height: 400px;
+    }
+
+    .news-img-txt {
+        padding-left: 69px;
+    }
+}
+
+/*================================================================*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .news-img-txt {
+        padding-left: 93px;
+    }
+}
+
+/*================================================================*/
+
+
+@media (min-width: 1200px) {
+    /*==fully-auto responsive==*/
+}
+
+
+/*==news.html part end==*/
+
+
+
+/*==speacial.html part start==*/
+
+@media (max-width: 575.98px) {
+
+    /*==main-spacial part start==*/
+    .speacial-box img {
+        width: 545px;
+    }
+
+    /*==main-spacial part end==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /*==main-spacial part start==*/
+    .speacial-box img {
+        width: 510px;
+    }
+
+    /*==main-spacial part end==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*==fully-auto responsive==*/
+}
+
+/*================================================================*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*==fully-auto responsive==*/
+}
+
+
+/*================================================================*/
+
+@media (min-width: 1200px) {
+    /*==fully-auto responsive==*/
+}
+
+
+/*==speacial.html part end==*/
+
+
+
+/*==Reservation.html part start==*/
+
+
+/*=================================
+
+
+*****fully-auto responsive*****
+
+
+===================================*/
+
+/*==Reservation.html part end==*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
